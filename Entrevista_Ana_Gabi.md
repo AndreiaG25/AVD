@@ -26,7 +26,7 @@ Morada: Braga
 
 **Entrevistadora:** Ok, então já passou mais ou menos um ano, certo? Tens, assim, alguma memória em especial, de algum dia que queiras falar?  
 
-**Entrevistada:** Eu acho que o meu dia favorito foi quando nós fomos ao Porto. Na verdade, nós fomos ao Porto, fomos ver o Mercado Pardal. Eu não me lembro o dia específico, mas passámos o dia todo lá. Fomos cedo, passámos no mercado e depois estivemos no Jardim da Cordoaria e vimos o pôr do sol lá, e depois voltamos para casa e jantámos e foi só mesmo muito bom estar na companhia dela.  
+**Entrevistada:** Eu acho que o meu dia favorito foi quando nós fomos ao Porto. Na verdade, nós fomos ao Porto, fomos ver o Mercado Pardal. Eu não me lembro o dia específico, mas passámos o dia todo lá. Fomos cedo, passámos no mercado e depois estivemos no Jardim da Cordoaria e vimos o pôr do sol lá, e depois voltamos para casa e jantámos e foi mesmo muito bom estar na companhia dela.  
 
 **Entrevistadora:** E existem alguns planos para o futuro que vocês tenham?  
 
