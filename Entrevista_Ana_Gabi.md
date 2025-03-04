@@ -1,5 +1,5 @@
 ---
-Metadados 
+Metadados:
 
 Data da entrevista: 04/03/2025
 Entrevistador: Andreia Gonçalves
@@ -7,8 +7,8 @@ Entrevistado: Ana Gabriela Faria
 Emprego: "Assistente de Loja na Primark / Estudante Maiores de 23 anos"
 Data de nascimento: 1999
 Morada: Braga
-
 ---
+
 
 ![Fotografia](https://github.com/AndreiaG25/AVD/blob/main/Entrevista_Ana_Gabi.jpg)
   
