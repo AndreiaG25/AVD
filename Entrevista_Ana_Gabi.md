@@ -9,9 +9,9 @@ Data de nascimento: 1999
 Morada (?): Braga
 
 ---
-<entrevista>
+<interview>
 
-<entrevistador> Olá, então, podes começar por me dizer o teu nome, qual a tua idade e o que é que tu fazes? </entrevistador>
+<interviewer> Olá, então, podes começar por me dizer o teu nome, qual a tua idade e o que é que tu fazes? </interviewer>
 <entrevistado> Eu chamo-me Ana Gabriela, tenho 25 anos e eu trabalho a part-time na Primark, e estou a fazer um curso de maiores de 23 na Universidade do Minho. </entrevistado>
 <entrevistador> E hoje o que é que nós vamos falar então? </entrevistador>
 <entrevistado> A história da minha namorada, a Tatiana.</entrevistado>
@@ -23,5 +23,5 @@ Morada (?): Braga
 <entrevistado> Ela, em princípio, em junho vem morar cá para casa. E sim, a longo prazo, casamento, for sure.</entrevistado>
 <entrevistador> Ok, obrigada!</entrevistador>
 
-</entrevista>
+</interview>
 ---
