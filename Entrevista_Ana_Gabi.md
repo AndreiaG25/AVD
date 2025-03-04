@@ -34,6 +34,4 @@ Morada: Braga
 
 **Entrevistadora:** Ok, obrigada!  
 
-
-
 ---
